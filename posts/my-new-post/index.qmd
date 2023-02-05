@@ -23,6 +23,3 @@ In recent years, bioinformatics has played an increasingly important role in dru
 So whether you're a scientist, a healthcare professional, or simply someone with a curious mind, bioinformatics is a field that's worth keeping an eye on. With its powerful combination of biology, computer science, and information technology, it has the potential to revolutionize our understanding of the world and improve human health and well-being for generations to come.
 
 ![](images/image-288833896.png)
-
-```{}
-```

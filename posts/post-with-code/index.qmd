@@ -1,5 +1,5 @@
 ---
-title: "Accomplishments in the Feild of Bioinformatics"
+title: "Accomplishments in the Field of Bioinformatics"
 author: "Tarun Bathini"
 date: "2023-02-06"
 categories: [Bioinformatics, Analysis]
