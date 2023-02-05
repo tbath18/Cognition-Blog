@@ -1,0 +1,12 @@
+---
+title: "Welcome To My Blog for Illini Blockchain"
+author: "Tarun Bathini"
+date: "2023-02-01"
+categories: [Welcome]
+---
+
+Welcome to the first post on Cognition! My name is Tarun Bathini and I am created this Blog website for the Illini Blockchain Take home. To create this website I used the R programming Language and my code should be visible on my github, tbath18. Please go through the blog posts by date(when they were posted). I hope you enjoy my website and I am looking forward to the Interview.
+
+![](thumbnail.jpg)
+
+Welcome to Cognition, your one-stop source for bioinformatics. We aim to bring you the latest information, insights, and trends in the world of Bio-statistics. Whether you are an industry expert or a curious beginner, we have something for everyone. Our team of experts is dedicated to providing informative, engaging, and thought-provoking content that will keep you up to date and ahead of the curve. We believe in empowering individuals and communities through knowledge and understanding, and we hope you will join us on this journey.
