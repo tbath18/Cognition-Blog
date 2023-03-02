@@ -1,5 +1,5 @@
 ---
-title: "Welcome to My Takehome Project"
+title: "The Cognition Blog Welcomes You"
 listing:
   contents: posts
   sort: "date desc"

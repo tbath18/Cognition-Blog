@@ -5,7 +5,7 @@ date: "2023-02-01"
 categories: [Welcome]
 ---
 
-Welcome to the first post on Cognition! My name is Tarun Bathini and I have created this Blog website for the Illini Blockchain Take home. To create this website I used the R programming Language and my code should be visible on my github, tbath18. Please go through the blog posts by date(when they were posted). I hope you enjoy my website and I am looking forward to the Interview.
+Welcome to the first post on Cognition! My name is Tarun Bathini and I have created this Blog website for biotech. To create this website I used the R programming Language. Please go through the blog posts by date(when they were posted). I hope you enjoy my website.
 
 ![](thumbnail.jpg)
 
