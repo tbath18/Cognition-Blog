@@ -1,6 +1,6 @@
 ---
 title: "What is Bioinformatics?"
-author: "Tarun Bathini"
+author: "Tarun S. Bathini"
 date: "2023-02-04"
 categories: [Bioinformatics, Welcome]
 image: "https://www.pnnl.gov/sites/default/files/media/image/Picture4_0.jpg"
